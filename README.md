@@ -16,6 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://t.me/abemelekk" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="abemelekdd" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/abemelek ermias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abemelek ermias" height="30" width="40" /></a>
 <a href="https://instagram.com/_abemelek_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abemelek_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abemelekdd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abemelekdd" height="30" width="40" /></a>
