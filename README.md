@@ -4,15 +4,14 @@
 
 <!--<p align="right"> <img src="https://camo.githubusercontent.com/d2ff3eb4e300b4366924419b7894d9fc33842e563f08c74f24eae4b193a4f07e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" alt="abemelekermi", width="200" height="200" /> </p>-->
 
-- 🔭 I’m currently working on **My own Startup(Nxtream..)**
+- 🔭 I’m currently working on **My own Startup**
 
-- 🎆 I’m currently learning **C# and Machine Learning**
+- 🎆 I’m currently learning **C#, Machine Learning React**
 
 - 💬 Ask me about **Flutter, Android**
 
 - 📫 How to reach me **Abemelekdd@gmail.com**
 
-- ✨ I will try to make my projects **public**
   
 
 <h3 align="left">Connect with me:</h3>
