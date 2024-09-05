@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **My own Startup**
 
-- 🎆 I’m currently learning **C#, Machine Learning React**
+- 🎆 I’m currently learning **C#, Machine Learning and React**
 
 - 💬 Ask me about **Flutter, Android**
 
