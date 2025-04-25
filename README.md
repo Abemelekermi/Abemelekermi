@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Random projects..**
 
-- 🎆 I’m currently learning **C#, Machine Learning**
+- 🎆 I’m currently learning **C# and Machine Learning**
 
 - 💬 Ask me about **Flutter, Android**
 
