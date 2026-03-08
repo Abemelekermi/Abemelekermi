@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Something....<br>🌱 I’m currently learning c# and Machine learning<br>💬 Ask me about Flutter and Pytorch<br>⚡ Fun fact I hate working on Frontend
+🔭 I’m currently working on Something....<br>🌱 I’m currently learning c# and Machine learning<br>💬 Ask me about Flutter and Pytorch<br>
 
 
 ## 🌐 Socials:
