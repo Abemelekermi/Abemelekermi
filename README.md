@@ -39,6 +39,8 @@
 
 ---
 
-![](https://nirzak-streak-stats.vercel.app/?user=Abemelekermi\&theme=shadow_blue\&hide_border=true)
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abemelekermi&theme=dark" alt="abemelekermi" /></p>
 
 ---
