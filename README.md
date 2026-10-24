@@ -8,7 +8,7 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/_abemelek_)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/abemele.k)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:abemelekdd@gmail.com)
 
 ---
